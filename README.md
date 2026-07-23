@@ -62,3 +62,21 @@ The preprocessing stage improves image quality before feature extraction, enabli
 | F1 Score | 64% |
 
 ---
+## Future Improvements
+
+- Improve performance using transfer learning (ResNet, EfficientNet, DenseNet)
+- Address class imbalance through data augmentation or weighted loss functions
+- Hyperparameter optimization
+- Multi-class diabetic retinopathy classification
+- Deploy the model as a web application for clinical use
+
+---
+
+## Author
+
+Your Name
+Aphiwe Sphephelo Madondo
+---
+## License
+
+This project is intended for academic and research purposes.
