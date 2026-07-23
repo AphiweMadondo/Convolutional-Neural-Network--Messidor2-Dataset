@@ -74,7 +74,6 @@ The preprocessing stage improves image quality before feature extraction, enabli
 
 ## Author
 
-Your Name
 Aphiwe Sphephelo Madondo
 ---
 ## License
